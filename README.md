@@ -58,7 +58,7 @@ The repository is designed for students learning **Data Structures & Algorithms*
 
 ---
 
-## 📌 Priority Queue *(Coming Soon)*
+## 📌 Priority Queue 
 
 - Insert
 - Delete
