@@ -66,7 +66,7 @@ The repository is designed for students learning **Data Structures & Algorithms*
 
 ---
 
-## 📌 Deque *(Coming Soon)*
+## 📌 Deque 
 
 - Insert Front
 - Insert Rear
