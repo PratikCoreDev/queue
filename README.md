@@ -9,7 +9,6 @@ A comprehensive collection of **Queue** implementations in **C**, covering array
 ![Language](https://img.shields.io/badge/Language-C-blue?style=for-the-badge&logo=c)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-Queue-success?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
 <br>
 
